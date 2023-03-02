@@ -25,8 +25,7 @@ function Home() {
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             <div className="service-item">
-              <i
-                className="fas
+              <i className="fas
               fa-hand-holding-usd"
               ></i>
               <h3>Wealth Management</h3>
