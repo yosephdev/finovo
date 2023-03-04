@@ -2,6 +2,10 @@
 
 This is a web application built using React for Finovo, a financial services company. The website provides users with information about the company's services and allows them to request more information or schedule a consultation.
 
+## Preview
+
+![Preview](/finovo.jpeg)
+
 # Installation
 
 To install and run the project locally, follow these steps:
