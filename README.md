@@ -6,10 +6,10 @@ This is a web application built using React for Finovo, a financial services com
 
 To install and run the project locally, follow these steps:
 
-    Clone the repository to your local machine using git clone.
-    Install the necessary dependencies using npm install.
-    Start the development server using npm start.
-    Access the application in your web browser at http://localhost:3000.
+- Clone the repository to your local machine using git clone.
+- Install the necessary dependencies using npm install.
+- Start the development server using npm start.
+- Access the application in your web browser at http://localhost:3000.
 
 # Features
 
@@ -27,7 +27,7 @@ To install and run the project locally, follow these steps:
 
 # Credits
 
-The design and development of this application were completed by Yoseph Berhane. Special thanks to Sibar for their assistance with coding.
+The design and development of this application were completed by Yoseph Berhane. 
 
 # License
 
