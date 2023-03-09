@@ -32,7 +32,7 @@ function Testimonials() {
             Pellentesque ut bibendum mi. Donec id massa in ipsum blandit
             venenatis vel ac libero."
           </p>
-          <h3>Jane Doe</h3>
+          <h3>Jane Holtcamp</h3>
           <p>Investor</p>
         </div>
         <div className="testimonial-item">
@@ -42,7 +42,7 @@ function Testimonials() {
             Pellentesque ut bibendum mi. Donec id massa in ipsum blandit
             venenatis vel ac libero."
           </p>
-          <h3>Jane Doe</h3>
+          <h3>Malin Kuhlman</h3>
           <p>Investor</p>
         </div>
       </section>
