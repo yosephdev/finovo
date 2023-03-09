@@ -23,17 +23,29 @@ function Home() {
             <div className="service-item">
               <FaMoneyBillWave className="service-icon" />
               <h3>Investment Services</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>
+                We offer a range of investment options, including stocks, bonds,
+                mutual funds, exchange-traded funds (ETFs), and alternative
+                investments.
+              </p>
             </div>
             <div className="service-item">
               <FaHandHoldingUsd className="service-icon" />
               <h3>Wealth Management</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>
+                Our wealth management services are designed to help clients make
+                informed investment decisions, grow their wealth, and achieve
+                their financial goals.
+              </p>
             </div>
             <div className="service-item">
               <FaChartLine className="service-icon" />
               <h3>Financial Planning</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>
+                We cover a range of financial planning topics, including
+                retirement planning, investment planning, tax planning, risk
+                management, and estate planning.
+              </p>
             </div>
           </div>
         </div>
