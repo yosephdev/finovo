@@ -608,3 +608,46 @@ button:hover {
 .footer-links a:hover {
   color: #fbb710;
 }
+
+/* Page Not Found */
+.error-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.error-container img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.error-container h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.error-container p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: inline-block;
+  background-color: #3f51b5;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #1a237e;
+}
