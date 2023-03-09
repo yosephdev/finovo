@@ -1,6 +1,6 @@
 # Finovo
 
-This is a web application built using React for Finovo, a financial services company. The website provides users with information about the company's services and allows them to request more information or schedule a consultation.
+This is a web application built using React for Finovo, a financial services company. The website provides users with information about the company's services and allows them to calculate the estimated cost of a loan.
 
 ## Preview
 
